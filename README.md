@@ -1,6 +1,10 @@
 # Google-Dotnet-Samples
 Come usare Google API in un progetto C#
-A .NET library for interacting with the Google API suite.
+
+Il progetto è molto basic e ha lo scopo di Aggiungere , Modificare, Cancellare un contatto Google e una funzione che esegue un merge di due liste prese da due account distinti di google. 
+
+L'applicazione utilizza la "Schermata consenso OAuth" di Google . 
+https://console.cloud.google.com/apis/credentials
 
 # Licenza
 Concesso in licenza ai sensi della Licenza Apache, Versione 2.0 (la "Licenza"); non è possibile utilizzare questo file se non in conformità con la Licenza. Vedi LICENZA
