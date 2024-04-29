@@ -1,6 +1,6 @@
 # Google-Dotnet-Samples
 Come usare Google API in un progetto C#
-A .NET library for interacting with the Google Maps API suite.
+A .NET library for interacting with the Google API suite.
 
 # Licenza
 Concesso in licenza ai sensi della Licenza Apache, Versione 2.0 (la "Licenza"); non è possibile utilizzare questo file se non in conformità con la Licenza. Vedi LICENZA
