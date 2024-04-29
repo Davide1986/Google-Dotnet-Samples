@@ -1,0 +1,5 @@
+C:\Users\assistenzatecnica\source\repos\ConsoleGooglePeople\ConsoleGooglePeople\obj\Debug\net6.0\ConsoleGooglePeople.csproj.AssemblyReference.cache
+C:\Users\assistenzatecnica\source\repos\ConsoleGooglePeople\ConsoleGooglePeople\obj\Debug\net6.0\ConsoleGooglePeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assistenzatecnica\source\repos\ConsoleGooglePeople\ConsoleGooglePeople\obj\Debug\net6.0\ConsoleGooglePeople.AssemblyInfoInputs.cache
+C:\Users\assistenzatecnica\source\repos\ConsoleGooglePeople\ConsoleGooglePeople\obj\Debug\net6.0\ConsoleGooglePeople.AssemblyInfo.cs
+C:\Users\assistenzatecnica\source\repos\ConsoleGooglePeople\ConsoleGooglePeople\obj\Debug\net6.0\ConsoleGooglePeople.csproj.CoreCompileInputs.cache

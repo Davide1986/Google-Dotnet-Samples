@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IKTFjD0E4JymISI6PcElJSvkhhLx3usZgznVBdwbUY3/4XigwuemOoEp30URJFT9FErTxv+yw3TJksd4Himu4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\assistenzatecnica\\source\\repos\\ConsoleGooglePeople\\ConsoleGooglePeople\\ConsoleGooglePeople.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\google.apis.peopleservice.v1\\1.68.0.3359\\google.apis.peopleservice.v1.1.68.0.3359.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\assistenzatecnica\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
